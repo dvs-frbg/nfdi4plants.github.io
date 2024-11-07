@@ -1,12 +1,14 @@
 ---
 date: 2024-11-08
-title: Base4NFDI Services Roadshow Announcement: Discover the Future of NFDI Infrastructure, December 4th
+title: Base4NFDI Services Roadshow Announcement - Discover the Future of NFDI Infrastructure, December 4th
 description: A NFDI-wide roadshow highlighting the basic services currently under development by Base4NFDI will take place online the 4th December ...
 highlight: true
 ---
-Join us for the NFDI-wide roadshow highlighting the basic services currently under development by Base4NFDI. This 
+Join us for the [NFDI-wide roadshow](https://base4nfdi.de/news-events/events/services-roadshow-by-base4nfdi-12-2024) 
+highlighting the basic services currently under development by Base4NFDI. This 
 event offers an opportunity for NFDI participants and beyond to learn how these services will transform research 
-within the NFDI framework and which potential implications it has for DataPLANT. 
+within the NFDI framework and which potential implications it has for DataPLANT. The presented services include: 
+IAM4NFDI, PID4NFDI, TS4NFDI, Jupyter4NFDI, DMP4NFDI, KGI4NFDI, nfdi.software and RDMTraining4NFDI.
 [Registration](https://uni-goettingen.zoom.us/meeting/register/u5YldeChqz4rH9E-p3Jbx3VbKfpMlzighpsy#/registration)
 is possible online from now on (it is an online event).
 
