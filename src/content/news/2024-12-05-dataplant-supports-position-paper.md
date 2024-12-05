@@ -1,3 +1,9 @@
+---
+date: 2024-12-05
+title: Publication of the "Status Quo and Future of NFDI - A Perspective of the Subject Consortia" position paper
+description: The members of the Taskforce Governance and Sustainability and the editorial team have finalized the joint position paper ...
+highlight: true
+---
 The members of the Taskforce Governance and Sustainability and the editorial team have finalized the joint position paper 
 ["Status Quo and Future of NFDI - A Perspective of the Subject Consortia,"](https://doi.org/10.5281/zenodo.14277471) which 
 has been approved by a clear majority of the consortia. DataPLANT was heavily involved in the central editorial team. 
