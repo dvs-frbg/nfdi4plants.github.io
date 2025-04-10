@@ -16,3 +16,9 @@ features and expectations of the community were discussed in workshops. The conn
 systems and the sustainability of data were a particular focus. A continuous flow of data and 
 its publication is a core of Open Science. This is implemented in DataPLANT through the ARC 
 publication workflow, which is currently being updated.
+
+Supporting the goal of sustainability was the most important concern that the NFDI consortium 
+DataPLANT brought to the community meeting. It applies to the development of the software itself 
+and to the data and the contexts (both represented in ARC RO-Crates) that is to be stored in it 
+and kept available and accessible over the long term. The personal contact with the many developers 
+and community members is an important value that was taken back from the meeting.
